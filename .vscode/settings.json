@@ -1,0 +1,27 @@
+{
+    "window.zoomLevel": 2,
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "editor.fontSize": 18,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.ignoreSelection": true,
+    // "code-runner.executorMap": {
+    //     "python": "cls ; python -u"
+    // },
+    "workbench.colorCustomizations": {},
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python",
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ]
+}
