@@ -1,4 +1,6 @@
-""" Operadores de Comparação ou Relacionais (>=, >, <, <=, !=, ==) !=  Operadores Lógicos (AND, OR, NOT ...)
+""" 
+
+Operadores de Comparação ou Relacionais (>=, >, <, <=, !=, ==) !=  Operadores Lógicos (AND, OR, NOT ...)
 
 OP..........Significado............Exemplo (True)
 >...........maior..................2 > 1

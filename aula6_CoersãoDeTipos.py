@@ -1,4 +1,3 @@
-
 # Conversão de tipos, Coerção
 # Type Convertion, Type Casting, Coercion
 # É o ato de converter um tipo em outro

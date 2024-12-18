@@ -1,9 +1,12 @@
 '''
+
 Python = Linguagem de Programação
 Tipo de tipagem = Dinâmica (reconhece o tipo) / Forte
 str -> string -> texto
 String são textos que estão dentro de aspas
+
 '''
+
 print(1234)
 print(type(1234))
 # Aspas simples
