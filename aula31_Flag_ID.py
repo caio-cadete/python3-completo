@@ -24,7 +24,6 @@ Em resumo, duas variáveis com valores idênticos apontam para o mesmo valor de 
 '''
 
 
-
 # Exemplo de Código ruim: 
 # Definição/Criação de variável dentro de um 'if', 'elif' ou 'else'.
 # Caso a condição seja False a variável 'passou_no_if' nunca será criada

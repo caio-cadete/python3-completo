@@ -1,5 +1,5 @@
 '''
-Iterando strings com while
+Iterando strings com While
 
 '''
 

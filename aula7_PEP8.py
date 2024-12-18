@@ -1,4 +1,3 @@
-
 # Variáveis são usadas para salvar algo na memória do computador
 # PEP8 - Guia de Estilos de código Python 
 # A PEP8 diz para iniciar variáveis com letras minúsculas, pode usar números e underline _ (snakecase a_b).

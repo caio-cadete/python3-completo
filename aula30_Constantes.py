@@ -1,4 +1,4 @@
-"""
+'''
 
 CONSTANTE: "Variáveis" que não vão mudar
 Muitas condições no mesmo "if" (ruim)
@@ -9,7 +9,7 @@ Na 99% dos casos você está escrevendo código para outras pessoas,
 o mínimo para um bom programador é um código bem organizado e estru-
 turado.
 
-"""
+'''
 
 # Variável (padrão minúscula)
 
